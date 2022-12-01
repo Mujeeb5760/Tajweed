@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tajweed/static/css/main.12a2f752.css",
+    "main.js": "/Tajweed/static/js/main.a9985ce9.js",
+    "static/js/787.37b78d9d.chunk.js": "/Tajweed/static/js/787.37b78d9d.chunk.js",
+    "index.html": "/Tajweed/index.html",
+    "main.12a2f752.css.map": "/Tajweed/static/css/main.12a2f752.css.map",
+    "main.a9985ce9.js.map": "/Tajweed/static/js/main.a9985ce9.js.map",
+    "787.37b78d9d.chunk.js.map": "/Tajweed/static/js/787.37b78d9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12a2f752.css",
+    "static/js/main.a9985ce9.js"
+  ]
+}
